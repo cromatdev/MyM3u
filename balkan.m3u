@@ -151,3 +151,5 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1  tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" tvg-shift="" group-title="Music" :http-user-agent="",Worldwide Muzzik (720p)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NOVA TV HD" tvg-logo="" group-title="EU | EX-YU",NOVA TV HD
+http://4kgoott.com:2052/xjxkkucz/nqnbeyd/491589
